@@ -1,11 +1,17 @@
 .com{
-    width: 97vw;
+    width: 100vw;
     height: 25vw;
 
 
 }
 body{
-    border: 20px;
-    margin: 20px;
+    border: 20vw;
+    margin: 0px;
+    background-image: url("nature.jpg");
+background-repeat: no-repeat;
 
+    background-size: cover;
+}
+.conta{
+    background-color: black;
 }
