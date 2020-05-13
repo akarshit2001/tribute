@@ -6,6 +6,8 @@
 
 }
 body{
+
+    display: block;
     margin: 0px;
     background-image: url("nature.jpg");
 background-repeat: no-repeat;
@@ -16,5 +18,13 @@ background-repeat: no-repeat;
     background-color: black;
 }
 .container{
+    text-align: center;
+}
+.ll{
+    border: 40px;
+    display: block;
+    color: white;
+    font-size: 3vw;
+    text-decoration-line: blink;
     text-align: center;
 }
