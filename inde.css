@@ -1,11 +1,11 @@
 .com{
     width: 100%;
-    height: 25vw;
+    height: 20%;
 
+    border: solid;
 
 }
 body{
-    border: 20vw;
     margin: 0px;
     background-image: url("nature.jpg");
 background-repeat: no-repeat;
